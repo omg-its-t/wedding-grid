@@ -1,0 +1,38 @@
+.dt-copyright{
+	display:none;
+}
+
+.transition35{
+	border-radius: 50%;
+}
+
+.wpforms-field-label{
+	text-align: left;
+}
+
+.dt-menu-fixed,
+.dt-about-couple{
+	background-color: #f9f9f9;
+}
+
+.dt-couple-cont figure img{
+	border: none;
+}
+
+.textwidget p{
+	padding-top: .5em;
+	text-align: right;
+}
+.dt-footer{
+	margin-top:0;
+}
+
+.dt-rsvp{
+	height: 70vh;
+	   background-image: url("/wp-content/uploads/2018/11/DSC0514.jpg");
+	    background-repeat: no-repeat;
+    background-position: center; 
+	   background-size: cover;
+	background-attachment:fixed;
+   background-color: #cccccc;
+}
